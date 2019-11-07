@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SimpleSidearms - Unofficial CE1.6 Patch</name>
+	<author>Dyrewulfe</author>
+	<targetVersion>1.0.0</targetVersion>
+	<description>
+    A patch for Simple Sidearms and CE 1.6. Fixes issues with melee weapon selection when auto-swapping.
+
+    Load Order:
+    CombatExtended 1.6+
+    SimpleSidearms
+    SimpleSidearms - Unofficial CE1.6 Patch
+
+    Disclaimer: I'm in now way officially affiliated with the Combat Extended project or Simple Sidearms. I'm just a dude fixing stuff. Will remove upon request from authorized parties.
+
+    Credits to the CE Team for CE, and PeteTimesSix for SimpleSidearms, most of this patch was shamelessly hacked from the original codebases.
+
+  </description>
+</ModMetaData>
